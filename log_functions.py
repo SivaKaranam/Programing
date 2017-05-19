@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-
 """
-Logging...
+Logging
 """
 import logging
 
