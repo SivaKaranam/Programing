@@ -1,5 +1,5 @@
 """
-Script for connecting to ZINKA DB's
+Script for connecting to DB's
 """
 
 import MySQLdb
