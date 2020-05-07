@@ -2,6 +2,7 @@
 # encoding: utf-
 """
 Logging
+Author: Avis K
 """
 import logging
 
